@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
   viewStyle: {
     height: 50,
     backgroundColor: "#F8F8F8",
-    width: "95%",
+    width: "100%",
     justifyContent: "center",
     alignItems: "center",
     shadowColor: "#000",
